@@ -1,0 +1,15 @@
+---
+title: Frogger Game
+subtitle: Game Development
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: frogger game
+project-date: April 2014
+client: Null
+category: Web Development
+description: this is a game i made.
+
+---
